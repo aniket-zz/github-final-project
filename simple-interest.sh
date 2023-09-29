@@ -4,8 +4,7 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
-   # Additional Authors: aniket-zz
+   # Author: aniket-zz
 
    # Input:
    # p, principal amount
